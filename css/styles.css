@@ -1,0 +1,19 @@
+.header,
+.title,
+.description-text
+{
+  text-align: center;
+}
+
+.recipe-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+ul,
+ol {
+    display: table;
+    margin: 0 auto;
+  }
