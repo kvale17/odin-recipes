@@ -1,7 +1,6 @@
 .header,
 .title,
-.description-text
-{
+.description-text {
   text-align: center;
 }
 
@@ -14,10 +13,10 @@
 
 ul,
 ol {
-    display: table;
-    margin: 0 auto;
-  }
+  display: table;
+  margin: 0 auto;
+}
 
-body{
-    background-color: antiquewhite;
+body {
+  background-color: antiquewhite;
 }
