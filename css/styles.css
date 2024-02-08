@@ -24,3 +24,9 @@ li {
 body {
   background-color: antiquewhite;
 }
+
+p.description-text,
+ol.steps-list {
+  width: 600px;
+  margin: 0 auto;
+}
