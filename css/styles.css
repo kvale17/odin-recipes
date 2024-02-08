@@ -15,10 +15,12 @@ ul,
 ol {
   display: table;
   margin: 0 auto;
+  border-style: double;
 }
 
 li {
-  margin: 10px 0;
+  margin: 10px;
+  margin-right: 30px;
 }
 
 body {
