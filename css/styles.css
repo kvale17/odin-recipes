@@ -17,3 +17,7 @@ ol {
     display: table;
     margin: 0 auto;
   }
+
+body{
+    background-color: antiquewhite;
+}
