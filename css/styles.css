@@ -9,6 +9,7 @@
   margin: auto;
   width: 50%;
   border-radius: 30%;
+  border-style: double;
 }
 
 ul,
