@@ -33,3 +33,7 @@ ol.steps-list {
   width: 600px;
   margin: 0 auto;
 }
+
+.header.recipe-name {
+  color: red;
+}
